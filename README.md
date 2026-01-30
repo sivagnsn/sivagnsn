@@ -28,6 +28,14 @@ Full Stack Developer, IT Projects Coordinator & Devops Engineer
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="45" height="45" alt="Git" />
       <br>Git
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
+      <br>PHP
+    </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
+    </td>
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
       <br>Solidity
@@ -44,14 +52,7 @@ Full Stack Developer, IT Projects Coordinator & Devops Engineer
       <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
       <br>GoLang
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
-      <br>PHP
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
-      <br>Ruby
-    </td>
+    
     
   </tr>
   <!-- network -->
@@ -65,10 +66,7 @@ Full Stack Developer, IT Projects Coordinator & Devops Engineer
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
       <br>Express
     </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-      <br>React
-    </td>
+   
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
       <br>Next.js
@@ -136,10 +134,7 @@ Full Stack Developer, IT Projects Coordinator & Devops Engineer
       <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
       <br>FastAPI
     </td>
-    <td align="center" width="90">
-      <img src="./icons/vapi.png" width="45" alt="VApi" />
-      <br>VApi
-    </td>
+   
   </tr>
   
 </table>
