@@ -1,68 +1,63 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Sivaganesan Sakthivel — Enterprise systems. Intelligent automation. Practical engineering." width="100%" />
+  <img src="./assets/banner.svg" alt="Sivaganesan Sakthivel — Engineering connections. IT Project Lead & AI Engineer in Dubai." width="100%" />
 </p>
 
 <p align="center">
-  <strong>IT Project Lead & AI Engineer · Dubai, UAE</strong><br />
-  Connecting business needs, enterprise platforms, and the people who use them.
+  <a href="https://www.linkedin.com/in/sivaganesan-sakthivel-dev"><img src="https://img.shields.io/badge/LinkedIn-LET%E2%80%99S_CONNECT-8174E8?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:sivaganesan.sakthivel@gmail.com"><img src="https://img.shields.io/badge/Email-START_A_CONVERSATION-237F73?style=for-the-badge" alt="Start a conversation by email" /></a>
+  <a href="https://github.com/sivagnsn?tab=repositories"><img src="https://img.shields.io/badge/GitHub-EXPLORE_MY_CODE-33435F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my GitHub repositories" /></a>
 </p>
 
+### I build the connections behind better business.
+
+Hello, I’m **Siva** — an IT Project Lead & AI Engineer working where **business systems, software, and intelligent automation** meet. I turn complex processes into practical tools, and stay involved from requirements to rollout and support.
+
+At **AJ Al Asmawi Group**, I lead IT operations and enterprise delivery across a diverse group of businesses. My experience spans **15+ years** across the **UAE, Qatar, Tanzania, and India**.
+
+> **Understand the business. Connect the systems. Make the work easier.**
+
+## The toolkit
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/sivaganesan-sakthivel-dev">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:sivaganesan.sakthivel@gmail.com">Email me</a> &nbsp; / &nbsp;
-  <a href="https://github.com/sivagnsn?tab=repositories">Explore repositories</a>
+  <img src="./assets/toolkit.svg" alt="Toolkit: AI — OpenAI, Claude, agents, RAG, MCP; development — React, Node.js, JavaScript, PHP, Laravel, MySQL; enterprise — Odoo, Focus ERP, Oracle, HRMS; operations — AWS, Azure, Microsoft 365." width="100%" />
 </p>
+
+<details>
+<summary><strong>Explore the stack by discipline</strong></summary>
+
+| Discipline | Tools & technologies | What I use them for |
+| :--- | :--- | :--- |
+| AI & automation | OpenAI · Claude · AI agents · RAG · MCP | LLM integrations, document extraction, and business workflows |
+| Frontend | React · JavaScript · TypeScript · Next.js · Tailwind CSS | Business interfaces and web applications |
+| Backend & data | Node.js · Express · PHP · Laravel · Python · FastAPI · MySQL · PostgreSQL · MongoDB | Services, integrations, APIs, and application data |
+| Enterprise | Odoo · Focus ERP · Oracle · HRMS | Connected operations, migrations, and enterprise delivery |
+| Cloud & DevOps | AWS · Azure · Google Cloud · Docker · Kubernetes · Terraform | Infrastructure and deployment workflows |
+| Delivery tools | Git · GitHub Actions · Jenkins · Postman · Bash · PowerShell | Version control, automation, API testing, and operations |
+| Other platforms | Flutter · Firebase · WordPress · Microsoft 365 | Mobile, digital platforms, and workplace systems |
+
+</details>
+
+## From business challenge to working system
+
+| | Selected delivery | Scope |
+| :--- | :--- | :--- |
+| **01** | **Three companies. Connected operations.** | Full-cycle Odoo implementation: process mapping, customization, migration, training, and support. Manufacturing experience across metal, wood, food, and oil & gas. |
+| **02** | **ERP across on-premise and cloud.** | Focus ERP delivery spanning server setup, hosting, migration, user administration, upgrades, and functional support. |
+| **03** | **A stronger real estate foundation.** | Oracle ERP connecting property management, sales, financial processes, and compliance. |
+| **04** | **One connected employee lifecycle.** | Group-wide HRMS covering payroll, recruitment, performance, and employee lifecycle management. |
+
+<sub>Professional delivery highlights. Client systems and source code may be private.</sub>
+
+## Built to explore
+
+**[Digital business card + QR code ↗](https://github.com/sivagnsn/Digital-business-card-with-QR-code)**  
+A PHP system for creating and sharing professional digital business cards.
+
+**[JavaScript study playground ↗](https://github.com/sivagnsn/javascript_study_playground)**  
+JavaScript concepts, experiments, and mini projects in one playground.
 
 ---
 
-### Hello, I’m Siva.
-
-I turn complex business processes into connected, practical systems. My work spans **enterprise ERP delivery, AI automation, full-stack development, and IT operations** — with ownership from the first requirements conversation through launch and ongoing support.
-
-I bring **15+ years in technology** across the UAE, Qatar, Tanzania, and India. At **AJ Al Asmawi Group**, I lead IT operations and enterprise delivery across a diverse group of businesses, and build custom applications and AI workflows where they can make everyday work easier.
-
-### What I work on
-
-| Focus | How I contribute |
-| :--- | :--- |
-| **AI & automation** | LLM integrations, retrieval-augmented generation, AI agents, document extraction, and workflow automation. |
-| **Enterprise systems** | Odoo, Focus ERP, Oracle, and HRMS — process mapping, configuration, migration, testing, training, and go-live. |
-| **Software engineering** | Business applications with React, Node.js, PHP, Laravel, and MySQL. |
-| **Technology leadership** | Multi-location infrastructure, Microsoft 365, vendors, delivery teams, and business stakeholders. |
-
-### Selected delivery
-
-**01 / Connected manufacturing operations**  
-Full-cycle Odoo implementation across **three group companies**, with manufacturing experience spanning metal, wood, food, and oil & gas. Work includes process mapping, customization, data migration, training, and post-launch support.
-
-**02 / ERP across on-premise and cloud environments**  
-Focus ERP delivery covering server setup, hosting, configuration, migration, user administration, upgrades, and functional support.
-
-**03 / A stronger foundation for real estate**  
-Oracle ERP deployment connecting property management, sales, financial processes, and compliance.
-
-**04 / A connected employee lifecycle**  
-Group-wide HRMS implementation covering payroll, recruitment, performance, and employee lifecycle management across subsidiaries.
-
-<sub>These highlights describe professional delivery experience. Client systems and their source code may be private.</sub>
-
-### My toolkit
-
-**Build** &nbsp; React · Node.js · JavaScript · PHP · Laravel · MySQL  
-**Automate** &nbsp; OpenAI · Claude · LLMs · RAG · AI agents · MCP  
-**Connect** &nbsp; Odoo · Focus ERP · Oracle · HRMS  
-**Operate** &nbsp; AWS · Azure · Microsoft 365 · Infrastructure & recovery
-
-### How I approach delivery
-
-- **Understand the process first.** Start with the people, constraints, and business need.
-- **Connect the whole journey.** Keep requirements, implementation, training, and support aligned.
-- **Stay close to the work.** Combine hands-on engineering with clear ownership and communication.
-
-### Let’s connect
-
-Interested in enterprise systems, practical AI, or a business application that needs to get built? I’m happy to talk.
-
-**[sivaganesan.sakthivel@gmail.com](mailto:sivaganesan.sakthivel@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/sivaganesan-sakthivel-dev)**
-
-<p align="center"><sub>Business perspective. Engineer’s mindset.</sub></p>
+<p align="center"><strong>Have a process to improve or a platform to build?</strong><br />Let’s turn the next business challenge into a working solution.</p>
+<p align="center"><a href="mailto:sivaganesan.sakthivel@gmail.com">sivaganesan.sakthivel@gmail.com</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/sivaganesan-sakthivel-dev">LinkedIn ↗</a></p>
+<p align="center"><sub>BUSINESS PERSPECTIVE / ENGINEER’S MINDSET</sub></p>
